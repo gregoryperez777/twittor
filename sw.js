@@ -22,7 +22,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 // Aqui va todo lo que necesitamos para arrancar la 
 // app y que puede ser modificado
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
